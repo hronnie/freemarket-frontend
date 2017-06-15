@@ -1,0 +1,23 @@
+{
+  "name": "freemarket-frontend",
+  "version": "1.0.0",
+  "description": "Freemarket frontend",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/hronnie/freemarket-frontend.git"
+  },
+  "author": "buxi, hronnie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hronnie/freemarket-frontend/issues"
+  },
+  "homepage": "https://gitlab.com/hronnie/freemarket-frontend#README"
+}
