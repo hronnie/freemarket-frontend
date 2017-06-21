@@ -1,9 +1,3 @@
----------- Editor config ----------
-* Use spaces instead of tabs
+## Installation notes
+https://gitlab.com/hronnie/freemarket-frontend/wikis/how-to-setup
 
----------- Installation notes ----------
-
---- Nodejs
-sudo apt-get install nodejs
--- npm the NodeJs package manager
-sudo apt-get install npm
