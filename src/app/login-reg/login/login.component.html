@@ -22,6 +22,12 @@
                 <button class="btn btn-primary btn-block" type="submit">Log In</button>
             </div><a href="#" class="forgot">Forgot your email or password?</a></form>
     </div>
+    <div>
+        <ul>
+        <li *ngFor="let user of users | async">******{{user.name}}</li>
+        </ul>
+        </div>
+
 </body>
 
 </html>
